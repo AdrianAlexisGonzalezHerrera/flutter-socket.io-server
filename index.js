@@ -1,5 +1,3 @@
-//const { Console } = require('console');
-//const { Console } = require('console');
 const express = require('express');
 const path = require('path');
 require('dotenv').config();
